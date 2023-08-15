@@ -6,7 +6,7 @@ public class MultiplicationTable {
     }
 
     public Boolean isValid(int start, int end) {
-        return null;
+        return start <= end;
     }
 
     public Boolean isInRange(int number) {
