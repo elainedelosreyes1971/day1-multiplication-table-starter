@@ -14,7 +14,6 @@ public class MultiplicationTable {
     }
 
     public Boolean isStartNotBiggerThanEnd(int start, int end) {
-
         return start < end;
     }
 
